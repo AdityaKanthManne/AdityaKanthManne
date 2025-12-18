@@ -14,5 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![snake gif](https://github.com/adityakanthmanne/adityakanthmanne/blob/output/github-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/adityakanthmanne/adityakanthmanne/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/adityakanthmanne/adityakanthmanne/output/github-snake.svg">
+  <img alt="github snake animation"
+       src="https://raw.githubusercontent.com/adityakanthmanne/adityakanthmanne/output/github-snake.svg">
+</picture>
+
 
