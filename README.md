@@ -1,18 +1,6 @@
 # Aditya Kanth Manne
 
-Quantitative Researcher | Data Scientist | Financial Modeling & ML
-
----
-
-## 📌 Featured Repositories
-> Pinned below ⬇️
-
-- Stochastic Volatility Option Pricing
-- Implied Volatility Surface Modeling
-- Real-Time News Sentiment Engine
-- VaR & CVaR Risk Models
-- Time Series Forecasting
-- ChitMate (Finance App)
+Quantitative Researcher | Data Scientist | Financial Modelling & ML
 
 ---
 
@@ -24,3 +12,8 @@ Quantitative Researcher | Data Scientist | Financial Modeling & ML
   <img alt="github snake animation"
        src="https://raw.githubusercontent.com/adityakanthmanne/adityakanthmanne/output/github-snake.svg">
 </picture>
+
+---
+
+## 📌 Featured Repositories
+> Pinned below ⬇️
