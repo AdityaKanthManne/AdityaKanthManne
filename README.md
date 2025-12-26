@@ -1,26 +1,21 @@
-## Hi there 👋
+# Aditya Kanth Manne
 
-<!--
-**AdityaKanthManne/AdityaKanthManne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Quantitative Researcher | Data Scientist | Financial Modeling & ML
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/adityakanthmanne/adityakanthmanne/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/adityakanthmanne/adityakanthmanne/output/github-snake.svg">
-  <img alt="github snake animation"
-       src="https://raw.githubusercontent.com/adityakanthmanne/adityakanthmanne/output/github-snake.svg">
-</picture>
+## 📌 Featured Repositories
+> Pinned below ⬇️
 
+- Stochastic Volatility Option Pricing
+- Implied Volatility Surface Modeling
+- Real-Time News Sentiment Engine
+- VaR & CVaR Risk Models
+- Time Series Forecasting
+- ChitMate (Finance App)
 
+---
+
+## 📊 GitHub Activity
+<!-- snake -->
+![GitHub Snake](https://raw.githubusercontent.com/adityakanthmanne/snake-repo-name/main/dist/github-snake-dark.svg)
