@@ -16,6 +16,11 @@ Quantitative Researcher | Data Scientist | Financial Modeling & ML
 
 ---
 
-## 📊 GitHub Activity
-<!-- snake -->
-![GitHub Snake](https://raw.githubusercontent.com/adityakanthmanne/snake-repo-name/main/dist/github-snake-dark.svg)
+## 📊 GitHub Activity<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/adityakanthmanne/adityakanthmanne/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/adityakanthmanne/adityakanthmanne/output/github-snake.svg">
+  <img alt="github snake animation"
+       src="https://raw.githubusercontent.com/adityakanthmanne/adityakanthmanne/output/github-snake.svg">
+</picture>
